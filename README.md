@@ -1,0 +1,1 @@
+FEA simulation files used with Fusion 360 to CAD and simulate TEM lamella and to apply a static force vector to each lamella. Please note, the results must be downscaled since Fusion does not allow nm sized models. The models are 1000X bigger than real TEM lamella and the simulation results must be down scaled. In our work, we use qualitative comparison of the models.
